@@ -3,7 +3,7 @@
 A desktop image classifier built with Python, PyTorch (ResNet-18), and Tkinter.
 Classifies images into 1,000 ImageNet categories with a modern UI.
 
-![App Screenshot](assets/screenshot.png)
+![App Screenshot](assets/image-classifier.png)
 
 ## Features
 - Single image or full folder classification
